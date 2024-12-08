@@ -6,7 +6,11 @@ function App() {
  
 
   return (
-   <Krish/>
+    <>
+    <Krish/>
+    <h1>nakrani krish</h1>
+    <p>i am EC engineer</p>
+    </>
   )
 }
 
